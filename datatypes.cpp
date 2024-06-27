@@ -9,5 +9,10 @@ int main(){
     cout<<"size of character is "<<sizeof(c)<<endl;
     bool d;
     cout<<"size of boolean is "<<sizeof(d)<<endl;
+    short int s;
+    long int r;
+    cout<<"size of short int is "<<sizeof(s)<<endl;
+    cout<<"size of long int is "<<sizeof(r)<<endl;
+    
     return 0;
 }
