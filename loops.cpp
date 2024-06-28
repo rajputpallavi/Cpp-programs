@@ -10,16 +10,16 @@ using namespace std;
 // }
 
 //while loop
-int main(){
-    int n;
-    cin>>n;
-    while(n>0){
-        cout<<n<<endl;
-        cin>>n;
-    }
+// int main(){
+//     int n;
+//     cin>>n;
+//     while(n>0){
+//         cout<<n<<endl;
+//         cin>>n;
+//     }
     
-    return 0;
-}
+//     return 0;
+// }
 
 //do while
 // int main(){
@@ -32,3 +32,4 @@ int main(){
 //     while(n>0);
 //     return 0;
 // }
+
