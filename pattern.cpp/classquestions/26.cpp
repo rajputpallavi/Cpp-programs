@@ -23,3 +23,4 @@ int main(){
     cout<<"Copied rectangle:"<<endl;
     copy.display();
 }
+
