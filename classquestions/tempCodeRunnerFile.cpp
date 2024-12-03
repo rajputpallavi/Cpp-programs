@@ -1,5 +1,1 @@
-nt main(){
-//     int n;
-//     cin>>n;
-
-// }
+cout<<setw(2)<<setfill('0')<<displayhours<<":"<<setw(2)<<setfill('0')<<minutes<<" "<<period<<endl
